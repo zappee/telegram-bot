@@ -40,13 +40,13 @@ This repository gives you a clean baseline to add your own logic and expand capa
 
 ### 3.1) Telegram commands
 * `/start`:
-  ![/start](/assets/images/menu/opensource/r-and-d/telegram-bot/start.png)
+  ![/start](/docs/start.png)
 
 * `help`:
-  ![help](/assets/images/menu/opensource/r-and-d/telegram-bot/help.png)
+  ![help](/docs/help.png)
 
 * `help chuck`:
-  ![help chuck](/assets/images/menu/opensource/r-and-d/telegram-bot/help-chuck.png)
+  ![help chuck](/docs/help-chuck.png)
 
 * Rest endpoint url for send text message to user: [http://localhost:8080/api/push](http://localhost:8080/api/push)
 
